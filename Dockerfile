@@ -1,0 +1,1 @@
+FROM johanneswuerbach/vpa-updater
